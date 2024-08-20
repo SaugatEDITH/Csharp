@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Csharp\twosum\bin\Debug\net8.0\twosum.exe
+C:\Users\acer\Desktop\Csharp\twosum\bin\Debug\net8.0\twosum.deps.json
+C:\Users\acer\Desktop\Csharp\twosum\bin\Debug\net8.0\twosum.runtimeconfig.json
+C:\Users\acer\Desktop\Csharp\twosum\bin\Debug\net8.0\twosum.dll
+C:\Users\acer\Desktop\Csharp\twosum\bin\Debug\net8.0\twosum.pdb
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.AssemblyInfo.cs
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.dll
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\refint\twosum.dll
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.pdb
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\twosum.genruntimeconfig.cache
+C:\Users\acer\Desktop\Csharp\twosum\obj\Debug\net8.0\ref\twosum.dll
